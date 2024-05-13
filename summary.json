@@ -1,0 +1,15 @@
+{
+  "durationInMS": 15421,
+  "passed": [],
+  "skipped": [],
+  "failed": [
+    "api\\user\\user.spec.js:16:7",
+    "api\\user\\user.spec.js:22:7"
+  ],
+  "warned": [],
+  "interrupted": [],
+  "timedOut": [],
+  "flakey": [],
+  "status": "failed",
+  "startedAt": 1714399165883
+}
